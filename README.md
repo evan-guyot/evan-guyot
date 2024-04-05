@@ -1,16 +1,22 @@
-### Hi there 👋
+![Hey There Banner](assets/img/hey_there.png)
 
-<!--
-**evan-guyot/evan-guyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Evan, a french developer currently in apprenticeship. 😁
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![About Me Banner](assets/img/about_me.png)
+
+Born in 2002, I like learning new concepts and architectures in OOP, exploring modern/trending notions, and others ! 🤩
+
+
+![Working On Banner](assets/img/working_on.png)
+
+- Currently working on few little [React](https://react.dev) projects in Typescript with [Next.js](https://nextjs.org). 😎
+
+- And will soon be working on [Android](https://developer.android.com/) mobile apps.. 😉
+
+
+![Reach Me Banner](assets/img/reach_me.png)
+
+- [Discord's friend invite](https://discord.com/invite/bGJ32uMB)
+
+- [Medium](https://medium.com/@evanguyot.pro)
