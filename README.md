@@ -19,7 +19,7 @@
 <div align="center">
   <img src="assets/img/reach_me.png" alt="Reach me" width="600">
   <div>
-    <p><a href="https://discord.com/invite/bGJ32uMB">Discord</a></p>
+    <p><a href="https://x.com/const_evan">X (Twitter)</a></p>
     <p><a href="https://medium.com/@evanguyot.pro">Medium</a></p>
     <p><a href="mailto:evanguyot.pro@gmail.com">E-mail</a></p>
   </div>
