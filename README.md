@@ -9,14 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="assets/img/working_on.png" alt="Working on" width="600">
-  <div>
-    <p>• Currently working on few little <a href="https://react.dev" target="_blank">React</a> projects in Typescript with <a href="https://nextjs.org" target="_blank">Next.js</a>. 😎</p>
-    <p>• And will soon be working on <a href="https://developer.android.com" target="_blank">Android</a> mobile apps.. 😉</p>
-  </div>
-</div>
-
-<div align="center">
   <img src="assets/img/reach_me.png" alt="Reach me" width="600">
   <div>
     <p><a href="https://x.com/const_evan">X (Twitter)</a></p>
